@@ -28,5 +28,6 @@
   <a href="pagedirective/import.jsp">Example of import attribute</a><br>
   <a href="pagedirective/contenttype.jsp">Example of contentType attribute</a><br>
   <a href="pagedirective/error.jsp">Example of isErrorPage attribute</a><br>
+  <a href="includedirective/include.jsp">Example of include directive</a><br>
   </body>
 </html>
