@@ -12,6 +12,7 @@
   </head>
   <body>
   out.print(2*5) = <% out.print(2*5); %><br>
-  <a href="scriplet.jsp">Example of JSP scriptlet tag</a><br>
+  <a href="scriptlet/scriplet.jsp">Example of JSP scriptlet tag</a><br>
+  <a href="scriptlet/index.html">Example of JSP scriptlet tag that prints the user name</a><br>
   </body>
 </html>
