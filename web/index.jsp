@@ -29,5 +29,6 @@
   <a href="pagedirective/contenttype.jsp">Example of contentType attribute</a><br>
   <a href="pagedirective/error.jsp">Example of isErrorPage attribute</a><br>
   <a href="includedirective/include.jsp">Example of include directive</a><br>
+  <a href="taglibdirective/index.jsp">Example of JSP Taglib directive</a><br>
   </body>
 </html>
