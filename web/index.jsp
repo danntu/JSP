@@ -24,5 +24,6 @@
   <a href="implictobject/config.html">Example of config implicit object:</a><br>
   <a href="implictobject/application.html">Example of application implicit object:</a><br>
   <a href="implictobject/session.html">Example of session implicit object</a><br>
+  <a href="implictobject/pageContext.html">Example of pageContext implicit object</a><br>
   </body>
 </html>
