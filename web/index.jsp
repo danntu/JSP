@@ -18,5 +18,6 @@
   <a href="expressiontag/time.jsp">Example of JSP expression tag that prints current time</a><br>
   <a href="expressiontag/index.jsp">Example of JSP expression tag that prints the user name</a><br>
   <a href="declarationtag/index1.jsp">Example of JSP declaration tag that declares field</a><br>
+  <a href="declarationtag/index2.jsp">Example of JSP declaration tag that declares method</a><br>
   </body>
 </html>
