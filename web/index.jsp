@@ -22,5 +22,6 @@
   <a href="implictobject/index.html">Example of JSP request implicit object</a><br>
   <a href="implictobject/response.html">Example of response implicit object</a><br>
   <a href="implictobject/config.html">Example of config implicit object:</a><br>
+  <a href="implictobject/application.html">Example of application implicit object:</a><br>
   </body>
 </html>

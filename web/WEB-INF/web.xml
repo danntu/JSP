@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
     <servlet>
-        <servlet-name>danik</servlet-name>
+        <servlet-name>configuration</servlet-name>
         <jsp-file>/implictobject/config.jsp</jsp-file>
     <init-param>
         <param-name>dname</param-name>
@@ -12,7 +12,19 @@
     </init-param>
     </servlet>
     <servlet-mapping>
-        <servlet-name>danik</servlet-name>
+        <servlet-name>configuration</servlet-name>
         <url-pattern>/config</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>application</servlet-name>
+        <jsp-file>/implictobject/application.jsp</jsp-file>
+    </servlet>
+    <context-param>
+        <param-name>dname</param-name>
+        <param-value>com.mysql</param-value>
+    </context-param>
+    <servlet-mapping>
+        <servlet-name>application</servlet-name>
+        <url-pattern>/application</url-pattern>
     </servlet-mapping>
 </web-app>
