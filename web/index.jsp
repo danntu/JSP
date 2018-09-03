@@ -27,5 +27,6 @@
   <a href="implictobject/pageContext.html">Example of pageContext implicit object</a><br>
   <a href="pagedirective/import.jsp">Example of import attribute</a><br>
   <a href="pagedirective/contenttype.jsp">Example of contentType attribute</a><br>
+  <a href="pagedirective/error.jsp">Example of isErrorPage attribute</a><br>
   </body>
 </html>
