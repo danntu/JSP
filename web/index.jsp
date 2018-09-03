@@ -25,5 +25,6 @@
   <a href="implictobject/application.html">Example of application implicit object:</a><br>
   <a href="implictobject/session.html">Example of session implicit object</a><br>
   <a href="implictobject/pageContext.html">Example of pageContext implicit object</a><br>
+  <a href="pagedirective/import.jsp">Example of import attribute</a><br>
   </body>
 </html>
