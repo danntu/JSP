@@ -40,5 +40,6 @@
   <a href="aplet/index.jsp">Example of displaying applet in JSP</a><br>
   <a href="el/param/index.jsp">EL param example</a><br>
   <a href="el/session/index.jsp">EL sessionScope example</a><br>
+  <a href="el/cookie/index.jsp">EL cookie example</a><br>
   </body>
 </html>
