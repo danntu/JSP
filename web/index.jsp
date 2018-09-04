@@ -30,5 +30,6 @@
   <a href="pagedirective/error.jsp">Example of isErrorPage attribute</a><br>
   <a href="includedirective/include.jsp">Example of include directive</a><br>
   <a href="taglibdirective/index.jsp">Example of JSP Taglib directive</a><br>
+  <a href="exception/index.jsp">Example of exception handling in jsp by the elements of page directive</a><br>
   </body>
 </html>
