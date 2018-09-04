@@ -27,4 +27,8 @@
         <servlet-name>application</servlet-name>
         <url-pattern>/application</url-pattern>
     </servlet-mapping>
+    <error-page>
+        <exception-type>java.lang.Exception</exception-type>
+        <location>/exception/error.jsp</location>
+    </error-page>
 </web-app>
