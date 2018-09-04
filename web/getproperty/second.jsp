@@ -2,7 +2,7 @@
   Created by IntelliJ IDEA.
   User: mdaniyar
   Date: 9/4/18
-  Time: 3:23 PM
+  Time: 3:28 PM
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -19,6 +19,5 @@ Record<br>
 <jsp:getProperty name="user" property="name"/>
 <jsp:getProperty name="user" property="password"/>
 <jsp:getProperty name="user" property="email"/>
-<a href="second.jsp">Visit Page</a>
 </body>
 </html>
