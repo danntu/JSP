@@ -38,5 +38,6 @@
   <a href="getproperty/index.html">Example of bean development in JSP</a><br>
   <a href="getproperty/index2.html">Using variable value in setProperty tag</a><br>
   <a href="aplet/index.jsp">Example of displaying applet in JSP</a><br>
+  <a href="el/param/index.jsp">EL param example</a><br>
   </body>
 </html>
