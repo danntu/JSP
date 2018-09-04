@@ -36,5 +36,6 @@
   <a href="actiontag/index3.jsp">Example of jsp:forward action tag with parameter</a><br>
   <a href="bean/index.jsp">Simple example of jsp:useBean action tag</a><br>
   <a href="getproperty/index.html">Example of bean development in JSP</a><br>
+  <a href="getproperty/index2.html">Using variable value in setProperty tag</a><br>
   </body>
 </html>
