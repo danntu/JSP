@@ -34,5 +34,6 @@
   <a href="actiontag/index.jsp">Example of jsp:forward action tag without parameter</a><br>
   <a href="actiontag/index2.jsp">Example of jsp:forward action tag with parameter</a><br>
   <a href="actiontag/index3.jsp">Example of jsp:forward action tag with parameter</a><br>
+  <a href="bean/index.jsp">Simple example of jsp:useBean action tag</a><br>
   </body>
 </html>
