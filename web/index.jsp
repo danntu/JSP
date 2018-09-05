@@ -44,5 +44,6 @@
   <a href="mvc/index.jsp">MVC Example in JSP</a><br>
   <a href="taglibdirective/index2.jsp">Example of JSP Custom Tag</a><br>
   <a href="taglibdirective/index3.jsp">Attributes in JSP Custom Tag</a><br>
+  <a href="taglibdirective/index4.jsp">Example of Iteration using JSP Custom Tag</a><br>
   </body>
 </html>

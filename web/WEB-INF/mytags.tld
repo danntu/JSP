@@ -19,4 +19,16 @@
             <required>true</required>
         </attribute>
     </tag>
+    <tag>
+        <name>power</name>
+        <tag-class>main.java.customtag.PowerNumber</tag-class>
+        <attribute>
+            <name>number</name>
+            <required>true</required>
+        </attribute>
+        <attribute>
+            <name>power</name>
+            <required>true</required>
+        </attribute>
+    </tag>
 </taglib>
