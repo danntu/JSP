@@ -45,5 +45,6 @@
   <a href="taglibdirective/index2.jsp">Example of JSP Custom Tag</a><br>
   <a href="taglibdirective/index3.jsp">Attributes in JSP Custom Tag</a><br>
   <a href="taglibdirective/index4.jsp">Example of Iteration using JSP Custom Tag</a><br>
+  <a href="taglibdirective/index5.jsp">Looping using Iteration Tag (creating tag for loop)</a><br>
   </body>
 </html>

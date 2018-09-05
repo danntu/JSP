@@ -31,4 +31,16 @@
             <required>true</required>
         </attribute>
     </tag>
+    <tag>
+        <name>loop</name>
+        <tag-class>main.java.customtag.Loop</tag-class>
+        <attribute>
+            <name>start</name>
+            <required>true</required>
+        </attribute>
+        <attribute>
+            <name>end</name>
+            <required>true</required>
+        </attribute>
+    </tag>
 </taglib>
