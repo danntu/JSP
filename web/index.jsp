@@ -41,5 +41,6 @@
   <a href="el/param/index.jsp">EL param example</a><br>
   <a href="el/session/index.jsp">EL sessionScope example</a><br>
   <a href="el/cookie/index.jsp">EL cookie example</a><br>
+  <a href="mvc/index.jsp">MVC Example in JSP</a><br>
   </body>
 </html>
