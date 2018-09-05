@@ -43,4 +43,8 @@
             <required>true</required>
         </attribute>
     </tag>
+    <tag>
+        <name>now</name>
+        <tag-class>main.java.customtag.PrintDate</tag-class>
+    </tag>
 </taglib>
