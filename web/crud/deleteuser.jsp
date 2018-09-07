@@ -1,0 +1,22 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: mdaniyar
+  Date: 9/7/18
+  Time: 10:15 AM
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<%@page import="main.java.crud.UserDao"%>
+<jsp:useBean id="u" class="main.java.crud.User"></jsp:useBean>
+<jsp:setProperty property="*" name="u"/>
+<%
+    UserDao.delete(u);
+    response.sendRedirect("viewusers.jsp");
+%>
+</body>
+</html>
